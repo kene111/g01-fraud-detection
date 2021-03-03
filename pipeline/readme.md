@@ -7,3 +7,5 @@
 
 ### Results review for the model deployment
 ![Pipeline Image](./images/deployment_result.png) 
+
+[Demo Link](https://dynamic-fraud-detection-app.herokuapp.com/)
